@@ -1,0 +1,1 @@
+Fichier de gestion de la cagnotte de notre application
